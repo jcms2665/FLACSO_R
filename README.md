@@ -1,5 +1,4 @@
 <center> <h1>Talleres de verano FLACSO 2019</h1> </center>
-
 <center><p style="width: 400px;">
 <img src="https://user-images.githubusercontent.com/13545121/58193603-005d7780-7c89-11e9-8e25-900572da8ddb.PNG" style="float: center;" />
 </p></center>
