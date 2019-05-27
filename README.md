@@ -1,12 +1,13 @@
-<center> <h1>Talleres de verano FLACSO 2019</h1> </center>
+<center> <h1>Talleres de verano 2019</h1> </center>
 <center><p style="width: 400px;">
 <img src="https://user-images.githubusercontent.com/13545121/58193603-005d7780-7c89-11e9-8e25-900572da8ddb.PNG" style="float: center;" />
 </p></center>
 
-### Introducción a R
+# Introducción a R
 
 
 El objetivo del curso es proporcionar a los asistentes los elementos básicos de R a fin de que puedan manipular bases de datos, generar gráficos y desarrollar estadística básica. La dinámica del taller es totalmente práctico y busca que desde el primer momento los asistentes adquieran la habilidad para desarrollar el análisis. Para ello, se hace uso de un repositorio en **GitHub** en el que se almacenan los materiales y cada sesión se acompaña de ficheros en **RPubs** donde se puede seguir la ejecución de los códigos paso a paso.
+---
 
 ### Temario General
 
