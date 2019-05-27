@@ -9,6 +9,11 @@
 El objetivo del curso es proporcionar a los asistentes los elementos básicos de R a fin de que puedan manipular bases de datos, generar gráficos y desarrollar estadística básica. La dinámica del taller es totalmente práctico y busca que desde el primer momento los asistentes adquieran la habilidad para desarrollar el análisis. Para ello, se hace uso de un repositorio en **GitHub** en el que se almacenan los materiales y cada sesión se acompaña de ficheros en **RPubs** donde se puede seguir la ejecución de los códigos paso a paso.
 
 
+### Instructores
+
+* Marisol Luna
+* Julio C.
+
 ### Temario General
 
 #### Sesión 1. Introducción a R
