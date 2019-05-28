@@ -20,7 +20,7 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 * Descarga e instalación de R y RStudio.
 * Aspectos básicos de R: objetos; funciones; vectores; matrices.
 
-#### Sesión 2. Bases de datos
+#### Sesión 2. [Bases de datos](http://rpubs.com/jcms2665/499972)
 * Importación y exportación base de datos en formatos  dta, sav, csv y xlsx.
 * Generación y manipulación de data.frames
 
