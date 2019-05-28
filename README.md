@@ -16,7 +16,7 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 
 ### Temario General
 
-#### Sesión 1. Introducción a R
+#### Sesión 1. [Introducción a R](http://rpubs.com/jcms2665/s1)
 * Descarga e instalación de R y RStudio.
 * Aspectos básicos de R: objetos; funciones; vectores; matrices.
 
