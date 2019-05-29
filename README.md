@@ -24,7 +24,7 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 * Importación y exportación base de datos en formatos  dta, sav, csv y xlsx.
 * Generación y manipulación de data.frames
 
-#### Sesión 3. Estadística descriptiva
+#### Sesión 3. [Estadística descriptiva](http://rpubs.com/jcms2665/s3)
 * Introducción
 * Medidas de tendencia central: media, mediana y moda.
 
