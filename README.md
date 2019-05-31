@@ -33,10 +33,10 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 * Medidas de posición: cuartiles, deciles.
 * Medidas de dispersión: rango, amplitud intercuartílica, varianza, desviación estándar, coeficiente de variación.
 
-#### Sesión 5. Gráficas
-* Gráficas para variables cuantitativas: histogramas; q-q plots; caja y brazos, etc.
-* Gráficas para variables cualitativas: barras; sectores.
-* Gráficas por grupos.
+#### Sesión 5. Nuevas funcionalidades de R
+* Wordcloud
+* Análisis de redes
+* Markdown
 
 
 ## Bibliografía
