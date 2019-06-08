@@ -1,1 +1,3 @@
+# EJERCICIO
 
+El objetivo de este ejercicio es usar los comandos basicos en R para analizar la Encuesta Intercensal 2015 usando Markdown y publicar los resultados en *Rpub*
